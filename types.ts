@@ -1,0 +1,2 @@
+// types.ts
+export type IconName = 'brand-icon' | 'heart' | 'cart' | 'heartFill'| 'location'| 'search'| 'fb' | 'ig' | 'x' | 'tiktok' | 'linkedin' | 'user' | 'chevron-left' | 'chevron-right' | 'chevron-up' | 'chevron-down' | 'angle-left' | 'angle-right' | 'angle-up' | 'angle-down' | 'checkmark' | 'grid' | 'cross' | 'trash' | 'tringle-up' | 'tringle-down' | 'tringle-right' | 'tringle-left' | 'home' | 'building' | 'user-nav' | 'bulb' | 'qa' | 'logout' | 'go-out' | 'user-fill' | 'forward-arrow' | 'alert-bell' | 'notes' | 'go-down' | 'chart-line' | 'verticle-meetball';  
