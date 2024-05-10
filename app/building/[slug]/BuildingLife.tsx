@@ -48,7 +48,7 @@ export default function BuildingLife(params: { bldg: any }) {
                     unparalleled waterfront views and a luxurious lifestyle. But
                     what about your kitchen? This vital space deserves an
                     upgrade that reflects the beauty of your surroundings and
-                    complements the building's unique features. Here are some
+                    complements the building&#39;s unique features. Here are some
                     tips to transform your Pilot House condo kitchen into a
                     stunning and functional haven for culinary creations:
                   </p>
@@ -103,18 +103,18 @@ export default function BuildingLife(params: { bldg: any }) {
                     charming breakfast nook or an outdoor cocktail area.{" "}
                   </p>
                   <p>
-                    <strong>Resident Resources:</strong> Don't forget to explore
+                    <strong>Resident Resources:</strong> Don&#39;t forget to explore
                     the Pilot House Condominium Association guidelines. These
                     may outline restrictions on modifications, paint colors, or
                     appliance types. Familiarize yourself with these guidelines
                     before embarking on your renovation journey.{" "}
                   </p>
                   <p>
-                    By incorporating these tips and keeping Pilot House's unique
+                    By incorporating these tips and keeping Pilot House&#39;s unique
                     features in mind, you can design a kitchen that is both
                     beautiful and functional, a true reflection of your
                     waterfront paradise. Remember, even small changes can make a
-                    big impact – so unleash your creativity and enjoy the
+                    big impact - so unleash your creativity and enjoy the
                     process of transforming your kitchen into a culinary oasis!
                   </p>
                 </div>

@@ -588,7 +588,7 @@ function DetailsPg() {
       <HeaderDetailPage />
       <section className="relative">
         <div className="relative before:absolute before:inset-x-0 before:bottom-0 before:h-40 before:bg-gradient-to-t before:from-[#f2f2f2] before:to-transparent">
-          <img className="w-full" src="/images/details-banner.png" />
+          <Image className="w-full" src="/images/details-banner.png" width={1200} height={1200} />
         </div>
         <div className="max-w-screen-wrap px-5 mx-auto w-full relative z-10">
           <div className="flex flex-wrap justify-between -mt-16 gap-1">

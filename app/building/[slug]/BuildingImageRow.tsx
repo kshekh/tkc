@@ -30,9 +30,9 @@ export default async function BuildingImageRow(params: { slug: any }) {
           return (
             <figure key={idx} className="shrink-0">
               <div className="overflow-hidden rounded-md">
-                <img
+                <Image
                   src={mediaUrl}
-                  alt={`Photo by ${idx}`}
+                  alt={`Photo by ${idx}`} width={300} height={300}
                   className="max-h-[300px]"
                 />
               </div>

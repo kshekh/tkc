@@ -19,7 +19,7 @@ const topTab = [
     { lable: "GRID", link: "/#", selected: false },
     { lable: "MAP", link: "/#", selected: false },
   ];
-function headerP5() {
+function HeaderP5() {
   const [favorite, setFavorite] = useState(false);
   const [headerdd, setHeaderdd] = useState(false);
   const favoriteHandle = () => {
@@ -187,4 +187,4 @@ function headerP5() {
   );
 }
 
-export default headerP5;
+export default HeaderP5;
